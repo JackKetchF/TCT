@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Coherent Time Theory (TCT)"
+abstract: >
+  Coherent Time Theory (TCT) proposes a coherence-based description of time,
+  introducing a scalar coherence field whose dynamics reproduce known physical
+  limits while predicting experimentally testable correlated temporal fluctuations.
+authors:
+  - family-names: "M***"
+    given-names: "Eduard"
+version: "1.0.0"
+date-released: 2026-01-31
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/JackKetchF/TCT"
+keywords:
+  - time
+  - coherence
+  - general relativity
+  - precision clocks
+  - foundations of physics
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "M***"
+      given-names: "Eduard"
+  title: "Coherent Time Theory (TCT)"
+  year: 2026
+  version: "1.0.0"
+  url: "https://github.com/JackKetchF/TCT"
